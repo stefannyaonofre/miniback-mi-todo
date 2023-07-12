@@ -1,0 +1,34 @@
+{
+    "listsTasks": [
+        {
+            "id": 1,
+            "name": "Ver grabación de la clase",
+            "completed": false
+          },
+          {
+            "id": 2,
+            "name": "Hacer el workshop",
+            "completed": false
+          },
+          {
+            "id": 3,
+            "name": "Enviar tarea de empleabilidad",
+            "completed": true
+          },
+          {
+            "id": 4,
+            "name": "Desglozar el proyecto en tareas",
+            "completed": false
+          },
+          {
+            "id": 5,
+            "name": "Estructurar el proyecto",
+            "completed": false
+          },
+          {
+            "id": 6,
+            "name": "Empezar el proyecto",
+            "completed": false
+          }  
+    ]
+}
